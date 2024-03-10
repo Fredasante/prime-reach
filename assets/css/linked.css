@@ -21,10 +21,23 @@
   font-size: 11px;
 }
 
-/* media queries */
+/* media queries - index */
 @media (max-width: 768px) {
   h4 .sideup-text {
     font-size: 22px;
     line-height: 30px;
+  }
+  .main-marq {
+    display: none;
+  }
+  .section-padding {
+    padding-top: 50px;
+    padding-bottom: 50px;
+  }
+  h2 .rotate-text {
+    font-size: 27px;
+  }
+  .rotate-text .ti-arrow-top-right {
+    display: none !important;
   }
 }
