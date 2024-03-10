@@ -78,4 +78,34 @@
     font-size: 18px;
     line-height: 27px;
   }
+
+  /* case study */
+  .case-title {
+    font-size: 35px;
+  }
+
+  /* contact us */
+  .text-u {
+    font-size: 20px;
+  }
+
+  /* case study inner */
+  .inner-title {
+    font-size: 25px !important;
+  }
+  .header-project1 {
+    padding: 80px 0 0;
+  }
+  .header-project1 .bg-img {
+    height: auto;
+    min-height: 200px;
+  }
+  .inner-first {
+    font-size: 17px;
+    line-height: 26px !important;
+  }
+  .inner-second {
+    font-size: 15px !important;
+    line-height: 24px !important;
+  }
 }
