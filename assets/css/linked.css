@@ -20,3 +20,11 @@
 .logo-container p {
   font-size: 11px;
 }
+
+/* media queries */
+@media (max-width: 768px) {
+  h4 .sideup-text {
+    font-size: 22px;
+    line-height: 30px;
+  }
+}

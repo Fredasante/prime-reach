@@ -246,7 +246,7 @@ figure {
 }
 
 .main-colorbg {
-  background: #14cf93 !important;
+  background: #ff6110 !important;
 }
 
 .main-color2 {
@@ -729,14 +729,6 @@ figure {
 /* Cursor
 -----------------------------------------------------------------*/
 
-.hover-this .hover-anim {
-  pointer-events: none;
-  -webkit-transition: -webkit-transform 0.2s linear;
-  transition: -webkit-transform 0.2s linear;
-  -o-transition: transform 0.2s linear;
-  transition: transform 0.2s linear;
-  transition: transform 0.2s linear, -webkit-transform 0.2s linear;
-}
 
 .cursor {
   pointer-events: none;
@@ -4472,11 +4464,11 @@ body.loaded {
 }
 
 .blog-list-half .item .cont .tags a:hover {
-  background: #14cf93;
+  background: #ff6110;
 }
 
 .blog-list-half .item .cont .tags.colorbg a:hover {
-  background: #14cf93;
+  background: #ff6110;
   color: #1a1a1a;
 }
 
@@ -9902,7 +9894,7 @@ footer.clean-footer.crev:before {
     font-size: 30px;
   }
   h4 {
-    font-size: 28px;
+    font-size: 26px;
   }
   h5 {
     font-size: 23px;
