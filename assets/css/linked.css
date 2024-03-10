@@ -70,4 +70,12 @@
     font-size: 25px !important;
     line-height: 34px;
   }
+  .services-say {
+    font-size: 33px !important;
+    line-height: 44px;
+  }
+  .testimonials-crev .item h4 {
+    font-size: 18px;
+    line-height: 27px;
+  }
 }
