@@ -41,6 +41,10 @@
   .rotate-text .ti-arrow-top-right {
     display: none !important;
   }
+  .logo img {
+    height: 30px;
+    width: 40px;
+  }
 
   /* about us */
   .fit-img img {
