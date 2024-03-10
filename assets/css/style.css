@@ -729,7 +729,6 @@ figure {
 /* Cursor
 -----------------------------------------------------------------*/
 
-
 .cursor {
   pointer-events: none;
   position: fixed;
@@ -9894,7 +9893,7 @@ footer.clean-footer.crev:before {
     font-size: 30px;
   }
   h4 {
-    font-size: 26px;
+    font-size: 23px;
   }
   h5 {
     font-size: 23px;
