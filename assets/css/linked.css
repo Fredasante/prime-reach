@@ -42,8 +42,8 @@
     display: none !important;
   }
   .logo img {
-    height: 30px;
-    width: 40px;
+    height: 28px;
+    width: 38px;
   }
 
   /* about us */
@@ -63,5 +63,11 @@
   }
   .page-intro-cerv .cont {
     padding-top: 0;
+  }
+
+  /* services */
+  .services-h2 {
+    font-size: 25px !important;
+    line-height: 34px;
   }
 }

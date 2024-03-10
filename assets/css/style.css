@@ -9343,7 +9343,7 @@ footer.clean-footer.crev:before {
     margin-bottom: 40px;
   }
   .md-mb50 {
-    margin-bottom: 50px !important;
+    margin-bottom: 20px !important;
   }
   .md-mb80 {
     margin-bottom: 80px;
@@ -9942,7 +9942,7 @@ footer.clean-footer.crev:before {
     display: block !important;
   }
   .sec-head h2 {
-    font-size: 28px;
+    font-size: 25px;
   }
   .sec-head .go-more {
     margin-top: 10px;
@@ -10300,7 +10300,7 @@ footer.clean-footer.crev:before {
     text-align: left !important;
   }
   .min-footer2 .fz-100 {
-    font-size: 55px !important;
+    font-size: 50px !important;
   }
   .page-header .fz-100,
   .page-header-cerv .fz-100 {
