@@ -21,8 +21,9 @@
   font-size: 11px;
 }
 
-/* media queries - index */
 @media (max-width: 768px) {
+  /* media queries - index */
+
   h4 .sideup-text {
     font-size: 22px;
     line-height: 30px;
@@ -35,9 +36,27 @@
     padding-bottom: 50px;
   }
   h2 .rotate-text {
-    font-size: 27px;
+    font-size: 29px;
   }
   .rotate-text .ti-arrow-top-right {
     display: none !important;
+  }
+
+  /* about us */
+  .fit-img img {
+    height: fit-content;
+  }
+  .page-intro .img {
+    height: auto;
+    margin-bottom: 25px;
+  }
+  .about-text {
+    font-size: 15px;
+    line-height: 22px;
+    font-weight: normal;
+    margin-top: 15px;
+  }
+  .page-intro-cerv .cont {
+    padding-top: 0;
   }
 }
