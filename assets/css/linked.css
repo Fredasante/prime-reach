@@ -44,7 +44,7 @@
 
   /* about us */
   .fit-img img {
-    height: fit-content;
+    height: auto;
     object-fit: contain;
   }
   .page-intro .img {
