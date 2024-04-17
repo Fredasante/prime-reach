@@ -20,6 +20,34 @@
 .logo-container p {
   font-size: 11px;
 }
+.logo-important-one {
+  color: #ff6110;
+  font-weight: bold !important;
+}
+.logo-important {
+  color: #ff6110;
+}
+
+/* hero */
+.hero-title {
+  color: #ff6110;
+  font-weight: 800;
+  line-height: 78px;
+}
+
+.hero-paragraph {
+  font-weight: 600;
+}
+
+.hero-btn {
+  background-color: #ff6110;
+  border: none;
+  color: white;
+  font-weight: 600;
+  margin-bottom: 40px;
+  padding: 10px 30px;
+  border-radius: 25px;
+}
 
 @media (max-width: 768px) {
   /* media queries - index */

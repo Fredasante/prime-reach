@@ -26,8 +26,8 @@
 }
 
 body {
-  color: #fff;
-  background-color: #1a1a1a;
+  color: black;
+  background-color: white;
   font-size: 16px;
   font-family: "Poppins", sans-serif;
   font-family: "Satoshi-Variable";
@@ -210,7 +210,7 @@ p {
   font-size: 15px;
   font-weight: 400;
   font-family: "Poppins", sans-serif;
-  color: #c6c8c9;
+  color: black
   margin: 0;
 }
 
@@ -258,15 +258,15 @@ figure {
 }
 
 .main-bg {
-  background: #1a1a1a !important;
+  background: white !important;
 }
 
 .sub-bg {
-  background: #1d1d1d !important;
+  background: rgb(239, 239, 120) !important;
 }
 
 .sub-bg2 {
-  background: #222 !important;
+  background: rgb(121, 220, 121) !important;
 }
 
 .btn:hover,
@@ -3121,7 +3121,7 @@ body.loaded {
 }
 
 [data-overlay-dark]:before {
-  background: #1d1d1d;
+  background: white;
 }
 
 [data-overlay-light]:before {
@@ -3150,7 +3150,7 @@ body.loaded {
 .bg-color h5,
 .bg-color h6,
 .bg-color span {
-  color: #fff;
+  color: black;
 }
 
 [data-overlay-dark="0"]:before,
@@ -3222,7 +3222,7 @@ body.loaded {
   margin: 0;
   width: 100%;
   background: transparent;
-  border-bottom: 2px solid transparent;
+  border-bottom: 1px solid transparent;
   z-index: 999;
 }
 
@@ -3242,8 +3242,8 @@ body.loaded {
 }
 
 .navbar.nav-crev.nav-scroll {
-  background: #1a1a1a;
-  border-color: rgba(255, 255, 255, 0.05);
+  background: white;
+  border-color: #ff6110;
   padding: 0;
   position: fixed;
   top: -80px;
@@ -3270,18 +3270,18 @@ body.loaded {
 }
 
 .navbar.bord {
-  border-color: rgba(255, 255, 255, 0.05);
+  border-color: #ff6110;
 }
 
 .navbar.blur {
-  border-color: rgba(255, 255, 255, 0.05);
+  border-color: #ff6110;
   -webkit-backdrop-filter: blur(10px);
   backdrop-filter: blur(10px);
 }
 
 .navbar.nav-scroll {
-  background: #1a1a1a;
-  border-color: rgba(255, 255, 255, 0.05);
+  background: white;
+  border-color: #ff6110;
   padding: 0;
   position: fixed;
   top: -80px;
@@ -3526,8 +3526,8 @@ body.loaded {
   bottom: 0;
   left: 0;
   right: 0;
-  border-left: 1px solid rgba(255, 255, 255, 0.2);
-  border-right: 1px solid rgba(255, 255, 255, 0.2);
+  border-left: 1px solid #ff6110;
+  border-right: 1px solid #ff6110;
 }
 
 .navbar .search-form .search-icon .close-search {
@@ -3566,7 +3566,7 @@ body.loaded {
   left: -100%;
   width: 100%;
   height: 100vh;
-  background: #1d1d1d;
+  background: white;
   overflow: hidden;
   z-index: 9999;
   -webkit-transition: all 0.5s cubic-bezier(1, 0, 0.55, 1);
@@ -3651,7 +3651,7 @@ body.loaded {
 }
 
 .hamenu .menu-links {
-  color: #fff;
+  color: black;
   height: 100vh;
   padding-top: 140px;
   overflow: auto;
