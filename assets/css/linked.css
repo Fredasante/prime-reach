@@ -32,7 +32,7 @@
 .hero-title {
   color: #ff6110;
   font-weight: 800;
-  line-height: 78px;
+  line-height: 65px;
 }
 
 .hero-paragraph {
@@ -45,8 +45,34 @@
   color: white;
   font-weight: 600;
   margin-bottom: 40px;
-  padding: 10px 30px;
-  border-radius: 25px;
+  padding: 12px 30px;
+  border-radius: 22px;
+  font-size: 14px;
+}
+
+.welcome-text {
+  font-weight: 700;
+}
+
+.choose-us-cont {
+  background: #b3289f;
+  padding: 90px 0;
+}
+
+.text-results,
+.project-info {
+  color: white !important;
+}
+
+.services-title {
+  font-weight: 800 !important;
+}
+
+.services-background {
+  background-image: url(../images/services-background.png);
+  background-position: center;
+  background-size: contain;
+  position: relative;
 }
 
 @media (max-width: 768px) {
