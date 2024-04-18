@@ -1013,7 +1013,7 @@ figure {
   -webkit-transition-delay: 0.2s;
   -o-transition-delay: 0.2s;
   transition-delay: 0.2s;
-  color: white;
+  color: black;
 }
 
 .d-slideup .sideup-text:nth-of-type(2) .up-text {
