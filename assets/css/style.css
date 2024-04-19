@@ -3621,6 +3621,13 @@ body.loaded {
   color: white;
 }
 
+@media (max-width: 900px) {
+  .hamenu .close-menu {
+    color: black;
+    border: 1px solid #6c6969;
+  }
+}
+
 .hamenu .logo,
 .hamenu .close-menu {
   -webkit-transform: translateY(-100px);
