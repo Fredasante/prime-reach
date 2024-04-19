@@ -514,8 +514,9 @@ figure {
 
 .butn.butn-bord {
   border-color: #fff;
-  background: transparent;
-  color: #fff;
+  background: #ff6110;
+  color: black;
+  color: white;
   -webkit-transition: all 0.4s;
   -o-transition: all 0.4s;
   transition: all 0.4s;
@@ -1481,6 +1482,9 @@ img.left {
 
 .bord-thin-left {
   border-left: 1px solid rgba(255, 255, 255, 0.14);
+}
+.bord-thin-left2 {
+  border-left: 1px solid #b7b5b5;
 }
 
 .bord-thin-bottom2 {
@@ -3745,7 +3749,7 @@ body.loaded {
   position: absolute;
   top: 50%;
   left: 50%;
-  background: #fff;
+  background: #6c6969;
 }
 
 .hamenu .menu-links .main-menu > li .link i:after {
@@ -3755,7 +3759,7 @@ body.loaded {
   position: absolute;
   top: calc(50% + 8px);
   left: calc(50% - 8px);
-  background: #fff;
+  background: #6c6969;
 }
 
 .hamenu .menu-links .main-menu > li .link.dopen i:before {
@@ -3884,11 +3888,11 @@ body.loaded {
   -webkit-transform: rotate(180deg);
   -ms-transform: rotate(180deg);
   transform: rotate(180deg);
-  font-size: 10vw;
+  font-size: 8vw;
   font-weight: 800;
   line-height: 1;
   text-transform: uppercase;
-  opacity: 0.02;
+  color: #b3289f !important;
 }
 
 .hamenu .menu-text:after {
@@ -5449,9 +5453,8 @@ body.loaded {
 .contact textarea {
   width: 100%;
   border: 0;
-  border-bottom: 1px solid rgba(255, 255, 255, 0.2);
+  border: 1px solid #d6d5d5 !important;
   background: transparent;
-  color: #fff;
   padding: 15px 0;
   -webkit-transition: all 0.4s;
   -o-transition: all 0.4s;
@@ -5626,8 +5629,6 @@ body.loaded {
   height: 450px;
   width: 100%;
   position: relative;
-  -webkit-filter: grayscale(100%);
-  filter: grayscale(100%);
 }
 
 .google-map iframe {
