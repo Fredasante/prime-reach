@@ -3719,7 +3719,7 @@ body.loaded {
   text-transform: uppercase;
   letter-spacing: 1px;
   line-height: 1.2;
-  padding: 20px 30px;
+  padding: 12px 30px;
   border-top: 1px solid #a5a5a5;
   width: 100%;
   position: relative;
@@ -3769,6 +3769,8 @@ body.loaded {
 .hamenu .menu-links .main-menu > li .link .fill-text {
   position: relative;
   color: #a5a5a5;
+  font-size: 30px;
+  font-weight: bold;
 }
 
 .hamenu .menu-links .main-menu > li .link .fill-text:after {
@@ -3888,11 +3890,12 @@ body.loaded {
   -webkit-transform: rotate(180deg);
   -ms-transform: rotate(180deg);
   transform: rotate(180deg);
-  font-size: 8vw;
+  font-size: 9vw;
   font-weight: 800;
   line-height: 1;
   text-transform: uppercase;
   color: #b3289f !important;
+  margin-bottom: 70px;
 }
 
 .hamenu .menu-text:after {
