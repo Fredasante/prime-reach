@@ -1451,6 +1451,10 @@ img.left {
   border: 0 !important;
 }
 
+.bord-thin-purple {
+  border-top: 1px solid #b3289f;
+}
+
 .bord-thin-top {
   border-top: 1px solid #ff6110;
 }
@@ -1463,6 +1467,9 @@ img.left {
 .bord-thin-new {
   border-top: 1px solid #282828 !important;
 }
+.bord-thin-new2 {
+  border-bottom: 1px solid #282828 !important;
+}
 
 .bord-thin-bottom {
   border-bottom: 1px solid rgba(255, 255, 255, 0.14);
@@ -1474,6 +1481,13 @@ img.left {
 
 .bord-thin-left {
   border-left: 1px solid rgba(255, 255, 255, 0.14);
+}
+
+.bord-thin-bottom2 {
+  border-bottom: 1px solid rgba(255, 255, 255, 0.14) !important;
+}
+.bord-thin-top2 {
+  border-top: 1px solid rgba(255, 255, 255, 0.14) !important;
 }
 
 .radius-5 {
@@ -6795,7 +6809,7 @@ footer.clean-footer.crev:before {
   -ms-flex-align: center;
   align-items: center;
   padding: 40px;
-  border-bottom: 1px solid rgba(255, 255, 255, 0.1);
+  border-bottom: 1px solid #282828;
   border-left: 1px solid rgba(255, 255, 255, 0.1);
   position: relative;
 }
