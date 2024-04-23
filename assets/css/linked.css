@@ -2,6 +2,10 @@
   color: #ff6110 !important;
 }
 
+.purple-color {
+  color: #b3289f !important;
+}
+
 .logo-all {
   display: flex;
   gap: 15px;
@@ -25,11 +29,10 @@
   font-size: 11px;
 }
 .logo-important-one {
-  color: #ff6110;
-  font-weight: bold !important;
+  font-weight: 900 !important;
 }
 .logo-important {
-  color: #ff6110;
+  font-weight: 500 !important;
 }
 
 /* hero */
