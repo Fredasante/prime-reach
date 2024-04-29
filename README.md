@@ -1,1 +1,1 @@
-A digital agency website for PrimeReach Organization.
+## A digital agency website - built using HTML, CSS & JavaScript.
